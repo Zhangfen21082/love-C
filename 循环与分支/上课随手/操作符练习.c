@@ -6,7 +6,7 @@
 int main(void)
 {
 	int a = 10;
-	int b = 20;
+	int b = 20
 	//加减法--缺陷是容易溢出
 	a = a + b;//a=30
 	b = a - b;//b=30-20=10
