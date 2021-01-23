@@ -6,7 +6,7 @@
 /*
 int main(void)
 {
-	int a = 0;
+	int a = 0
 	int b = 0;
 	int c = 0;VN
 	printf("请输入三个数\n");
